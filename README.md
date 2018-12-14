@@ -1,2 +1,2 @@
 # CNN-Comparison
-Trying to compare different CNNs.
+Trying to compare different super-parameters of LeNet.
